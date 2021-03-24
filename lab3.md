@@ -17,7 +17,8 @@
 
 ## วิธีการทำการทดลอง 
 1.นำ adapter เสียบเข้ากับ serial port 
-![S__4128781](https://user-images.githubusercontent.com/80879773/112291847-1728e700-8cc3-11eb-9aa0-3067d6205f60.jpg)
+![S__4128781](https://user-images.githubusercontent.com/80879773/112292030-45a6c200-8cc3-11eb-94f1-a5e8463ec3c6.jpg)
+
 
 2.นำไมโครคอนโทรลเลอร์ ESP-012 เสียบเข้ากับ adapter  
 ![S__4128783](https://user-images.githubusercontent.com/80879773/112291862-1b550480-8cc3-11eb-9865-435d1f2a5f54.jpg)

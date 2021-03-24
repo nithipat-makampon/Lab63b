@@ -15,17 +15,24 @@
 
 ## วิธีการทำการทดลอง 
 1.นำไมโครคอนโทรลเลอร์ ESP-01 เสียบเข้ากับ serial port 
-![image](https://user-images.githubusercontent.com/80879773/112288068-90263f80-8cbf-11eb-8bed-b400feb5b4dd.png)
+![S__4128770](https://user-images.githubusercontent.com/80879773/112289124-9832af00-8cc0-11eb-9207-ef82d79b36bf.jpg)
+
 
 
 2.ดูตัวอย่างโปรแกรมในโฟลเดอร์ที่เราบันทึกไว้ 
+![S__4128772](https://user-images.githubusercontent.com/80879773/112289144-9d8ff980-8cc0-11eb-8c39-723f80032771.jpg)
+
 
 3.ทำการเลือกโปรแกรมที่เราต้องการใช้
+![S__4128773](https://user-images.githubusercontent.com/80879773/112289153-a08aea00-8cc0-11eb-9990-4a903cb57ce3.jpg)
+
 
 4.อัปโหลดโปรแกรมที่เราต้องการเข้าไปในไมโครคอนโทรลเลอร์ ESP-01 และกดปุ่มที่ ไมโครคอนโทรลเลอร์ ESP-01
+![S__4128774](https://user-images.githubusercontent.com/80879773/112289168-a385da80-8cc0-11eb-9924-94319706e3ec.jpg)
 
 5.พิมพ์คำสั่งเพื่อดูผลลัพธ์จากจอมอนิเตอร์
-             
+          ![S__4128775](https://user-images.githubusercontent.com/80879773/112289179-a5e83480-8cc0-11eb-9d3a-8780bc15339b.jpg)
+   
               
 ## การบันทึกผลการทดลอง 
 เมื่อทำการทดลองที่หน้าจอมอนิเตอร์จะได้ผลลัพธ์แสดงการนับเลข 

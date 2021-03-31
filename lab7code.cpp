@@ -22,9 +22,9 @@ void loop()
 	int val = digitalRead(0); 
 	Serial.printf("======= read %d\n", val); // ไฟติดขึ้นว่า read 0 ไฟดับขึ้นว่า read 1
 	 if (lux > 1000) { // ค่า 1000  สามารถกำหนดปรับได้ตามค่าแสงในห้องต่างๆ
-		digitalWrite(2, LOW); // ถ้าค่าแสงน้อยกว่า 1000 ไฟจะดับ
+		digitalWrite(2, LOW); // ถ้าค่าแสงมากกว่า 1000 ไฟจะดับ
 	} else {
-		digitalWrite(2, HIGH); // ถ้าค่าแสงมากกว่า 1000 ไฟจะติด
+		digitalWrite(2, HIGH); // ถ้าค่าแสงน้อยกว่า 1000 ไฟจะติด
 	}
 	delay(100);
 }
